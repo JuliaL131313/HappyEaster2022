@@ -73,7 +73,7 @@ class TextScramble {
  }
  
  let phrases = ['Не умрите!', 'Не спейтесь!',
-   'Не потолстейте!', "Не теряйте надежду и деньги!", "Happy New Year i КРЕПИТЕСЬ!", 'end'];
+   'Не потолстейте!', "Не теряйте надежду и деньги!", "Happy Easter i КРЕПИТЕСЬ!", 'end'];
  
  const el = document.querySelector('.happy-text');
  const fx = new TextScramble(el);
