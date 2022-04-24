@@ -72,8 +72,8 @@ class TextScramble {
    }
  }
  
- let phrases = ['Не умрите!', 'Не спейтесь!',
-   'Не потолстейте!', "Не теряйте надежду и деньги!", "Happy Easter i КРЕПИТЕСЬ!", 'end'];
+ let phrases = ['Не вмирайте!', 'Не спивайтесь!',
+   'Не товстійте!', "Не встрачайте надію та гроші!", "Happy Easter i все буде УКРАЇНА!", 'end'];
  
  const el = document.querySelector('.happy-text');
  const fx = new TextScramble(el);
